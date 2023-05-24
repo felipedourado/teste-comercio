@@ -1,0 +1,442 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\test\\TesteComercio.CommandHandler.Test\\TesteComercio.CommandHandler.Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Common\\TesteComercio.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Common\\TesteComercio.Common.csproj",
+        "projectName": "TesteComercio.Common",
+        "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Common\\TesteComercio.Common.csproj",
+        "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.4.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Pluralize.NET": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Application\\TesteComercio.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Application\\TesteComercio.Application.csproj",
+        "projectName": "TesteComercio.Application",
+        "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Application\\TesteComercio.Application.csproj",
+        "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Common\\TesteComercio.Common.csproj": {
+                "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Common\\TesteComercio.Common.csproj"
+              },
+              "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Domain\\TesteComercio.Domain.csproj": {
+                "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Domain\\TesteComercio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Domain\\TesteComercio.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Domain\\TesteComercio.Domain.csproj",
+        "projectName": "TesteComercio.Domain",
+        "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Domain\\TesteComercio.Domain.csproj",
+        "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Infrastructure\\Persistance\\TesteComercio.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Infrastructure\\Persistance\\TesteComercio.Persistence.csproj",
+        "projectName": "TesteComercio.Persistence",
+        "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Infrastructure\\Persistance\\TesteComercio.Persistence.csproj",
+        "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Infrastructure\\Persistance\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Common\\TesteComercio.Common.csproj": {
+                "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Common\\TesteComercio.Common.csproj"
+              },
+              "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Application\\TesteComercio.Application.csproj": {
+                "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Application\\TesteComercio.Application.csproj"
+              },
+              "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Domain\\TesteComercio.Domain.csproj": {
+                "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Domain\\TesteComercio.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.0.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.EnvironmentVariables": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.FileExtensions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "PolyCache": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\test\\TesteComercio.CommandHandler.Test\\TesteComercio.CommandHandler.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\test\\TesteComercio.CommandHandler.Test\\TesteComercio.CommandHandler.Test.csproj",
+        "projectName": "TesteComercio.CommandHandler.Test",
+        "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\test\\TesteComercio.CommandHandler.Test\\TesteComercio.CommandHandler.Test.csproj",
+        "packagesPath": "C:\\Users\\DESKTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\test\\TesteComercio.CommandHandler.Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DESKTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Infrastructure\\Persistance\\TesteComercio.Persistence.csproj": {
+                "projectPath": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Infrastructure\\Persistance\\TesteComercio.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.4.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.18.3, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\bin\Debug\net7.0\TesteComercio.Application.deps.json
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\bin\Debug\net7.0\TesteComercio.Application.dll
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\bin\Debug\net7.0\TesteComercio.Application.pdb
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\bin\Debug\net7.0\TesteComercio.Common.dll
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\bin\Debug\net7.0\TesteComercio.Domain.dll
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\bin\Debug\net7.0\TesteComercio.Common.pdb
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\bin\Debug\net7.0\TesteComercio.Domain.pdb
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\obj\Debug\net7.0\TesteComercio.Application.csproj.AssemblyReference.cache
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\obj\Debug\net7.0\TesteComercio.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\obj\Debug\net7.0\TesteComercio.Application.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\obj\Debug\net7.0\TesteComercio.Application.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\obj\Debug\net7.0\TesteComercio.Application.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\obj\Debug\net7.0\TesteComercio.Application.csproj.CopyComplete
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\obj\Debug\net7.0\TesteComercio.Application.dll
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\obj\Debug\net7.0\refint\TesteComercio.Application.dll
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\obj\Debug\net7.0\TesteComercio.Application.pdb
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Application\obj\Debug\net7.0\ref\TesteComercio.Application.dll

@@ -1,0 +1,12 @@
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\bin\Debug\net7.0\TesteComercio.Domain.deps.json
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\bin\Debug\net7.0\TesteComercio.Domain.dll
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\bin\Debug\net7.0\TesteComercio.Domain.pdb
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\obj\Debug\net7.0\TesteComercio.Domain.csproj.AssemblyReference.cache
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\obj\Debug\net7.0\TesteComercio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\obj\Debug\net7.0\TesteComercio.Domain.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\obj\Debug\net7.0\TesteComercio.Domain.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\obj\Debug\net7.0\TesteComercio.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\obj\Debug\net7.0\TesteComercio.Domain.dll
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\obj\Debug\net7.0\refint\TesteComercio.Domain.dll
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\obj\Debug\net7.0\TesteComercio.Domain.pdb
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Core\Domain\obj\Debug\net7.0\ref\TesteComercio.Domain.dll

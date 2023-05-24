@@ -1,0 +1,12 @@
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\bin\Debug\net7.0\TesteComercio.Common.deps.json
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\bin\Debug\net7.0\TesteComercio.Common.dll
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\bin\Debug\net7.0\TesteComercio.Common.pdb
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\obj\Debug\net7.0\TesteComercio.Common.csproj.AssemblyReference.cache
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\obj\Debug\net7.0\TesteComercio.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\obj\Debug\net7.0\TesteComercio.Common.AssemblyInfoInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\obj\Debug\net7.0\TesteComercio.Common.AssemblyInfo.cs
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\obj\Debug\net7.0\TesteComercio.Common.csproj.CoreCompileInputs.cache
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\obj\Debug\net7.0\TesteComercio.Common.dll
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\obj\Debug\net7.0\refint\TesteComercio.Common.dll
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\obj\Debug\net7.0\TesteComercio.Common.pdb
+C:\Users\DESKTOP\Desktop\Projetos\Teste\TesteComercio\src\Common\obj\Debug\net7.0\ref\TesteComercio.Common.dll
