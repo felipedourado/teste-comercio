@@ -1,0 +1,8 @@
+{
+  "TesteComercio.Api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Web\\Api",
+  "TesteComercio.ApiFramework, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Web\\ApiFramework",
+  "TesteComercio.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Application",
+  "TesteComercio.Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Common",
+  "TesteComercio.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Core\\Domain",
+  "TesteComercio.Persistence, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "C:\\Users\\DESKTOP\\Desktop\\Projetos\\Teste\\TesteComercio\\src\\Infrastructure\\Persistance"
+}
